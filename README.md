@@ -7,7 +7,7 @@ Jose Portilla - https://www.udemy.com/course/python-for-data-structures-algorith
 
 1. Algorithm Analysis and Big-O Notation
 2. Array Sequences
-3. Stacks Queues and Deques
+3. Stacks, Queues and Deques
 4. Linked Lists
 5. Recursion
 6. Trees
