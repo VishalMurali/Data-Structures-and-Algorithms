@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms
+# Topics explored:
 
 1. Algorithm Analysis and Big-O Notation
 2. Array Sequences
